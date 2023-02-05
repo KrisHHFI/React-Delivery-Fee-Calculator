@@ -1,9 +1,17 @@
-import React from 'react';
-import { render, screen } from '@testing-library/react';
+//import React from 'react';
 import App from './App';
+import DeliveryFeeCalculator from './components/calculator';
+import { render, screen, fireEvent } from'@testing-library/react'
 
-test('renders learn react link', () => {
+// TEST 1
+test('Tests whether default fee is €12.00', () => {
+  
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  render(<DeliveryFeeCalculator />);
+  
+  const button = screen.getByText('Calculate Delivery Fee');
+
+  fireEvent.click(button);
+  const output = screen.getByText(/Delivery Fee: €12.00/i); 
+  expect(output).toBeInTheDocument();
 });
