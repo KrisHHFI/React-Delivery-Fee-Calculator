@@ -1,9 +1,12 @@
-# Wolt Summer 2023 Internship Front-End Task
+# Fictional Delivery Fee Calculator 
 
-Hello! Here is my submission for the Wolt Summer 2023 Engineering Internship front-end task. The calculator is a React component, which is called via the main App. I created the calculator in around 100 lines of code. I tried to keep the code simple and self explanatory. If the user resizes the window, the calculator resizes respectively. 
+## Launch the App
 
-## To run my code
-- Install the project.
-- Open Command Prompt.
-- Go to the project folder via "cd".
-- Then execute: npm start
+1) Download the project.
+2) Navigate to the project via "cd" in your terminal.
+3) Then execute the following code- npm start
+
+
+## About
+
+The calculator is a React component, which is called via the main App. I created the calculator in around 100 lines of code. I tried to keep the code simple and self explanatory. If the user resizes the window, the calculator resizes respectively. If your browser does not run the program, go to [http://localhost:3000](http://localhost:3000).
