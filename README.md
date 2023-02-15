@@ -1,5 +1,7 @@
 # Fictional Delivery Fee Calculator 
 
+<img src="https://images.squarespace-cdn.com/content/v1/587b630aebbd1ab22efeeb6b/0971726a-90a6-4e20-b56d-635c29fbc7a7/Delivery+fee+calculator+image.png"/>
+
 Check out the [demo video](https://youtu.be/jOFY6kj2yzU).
 
 ## Launch the App
