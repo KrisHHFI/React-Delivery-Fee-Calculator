@@ -1,6 +1,6 @@
 # Fictional Delivery Fee Calculator 
 
-<img src="Delivery fee calculator image.png"/>
+<img src="PromoPic.png"/>
 
 Check out the [demo video](https://youtu.be/jOFY6kj2yzU).
 
