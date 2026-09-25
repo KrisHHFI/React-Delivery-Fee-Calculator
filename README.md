@@ -2,8 +2,6 @@
 
 <img src="PromoPic.png"/>
 
-Check out the [demo video](https://youtu.be/jOFY6kj2yzU).
-
 ## Launch the App
 
 1) Download the project.
